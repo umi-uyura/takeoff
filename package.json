@@ -1,0 +1,25 @@
+{
+  "name": "takeoff",
+  "version": "0.0.1",
+  "description": "Support upload to TestFlight from CLI.",
+  "keywords": [
+    "testflight",
+    "ios",
+    "iphone",
+    "android",
+    "cli"
+  ],
+  "author": "Umi Uyura",
+  "license": "MIT",
+  "bin": "./bin/takeoff",
+  "main": "./lib/takeoff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "~2.0.0"
+  },
+  "engine": {
+    "node": "node >= 0.8"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "appname": "APPNAME",
+  "api_token": "API_TOKEN",
+  "team_token": "TEAM_TOKEN",
+  "distribution_lists": "DISTRIBUTION_LIST",
+  "notify": true,
+  "replace": true
+}
